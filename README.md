@@ -1,4 +1,4 @@
-Olá! eu sou isaiasodr!
+Olá! eu sou Isaiasodr!
 - estou estudando node.js, express, sequelize, html e css
 
 
