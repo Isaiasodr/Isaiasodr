@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Olá! eu sou Isaías!</h1>
-<h3 align="center">estou estudando node.js, express, sequelize, html e css</h3>
+
 
 - 🌱Estou estudando Node.js|Mysql|Express|Sequelize|HTML|CSS|MongoDB|Mongoose
 - 📝 Bacharel em Sistemas de Informação 
